@@ -38,15 +38,6 @@
 
 ---
 
-### 📈 Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernesto-esqueda-guzman&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernesto-esqueda-guzman&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
-</p>
-
----
-
 ### 🌐 Conéctate Conmigo
 
 <p align="left">
