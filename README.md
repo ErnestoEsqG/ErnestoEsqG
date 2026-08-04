@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Computación** en **CUTonalá (Universidad de Guadalajara)**.
+- 🎓 Estudiante de **Ingeniería en Ciencias Computaciónales** en **CUTonalá (Universidad de Guadalajara)**.
 - 🛠️ Enfocado en **Ingeniería de Datos**, **Cloud Computing (AWS / Azure)**, **Desarrollo Backend** e **Inteligencia Artificial**.
 - 💡 Apasionado por diseñar pipelines de datos eficientes, construir APIs sólidas y explorar soluciones orientadas a datos.
 - 📍 Guadalajara, Jalisco, México.
