@@ -2,7 +2,7 @@
 <h3 align="center">Ingeniero en Ciencias Computaciónales | Data, Cloud & Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E65F7&center=true&vcenter=true&width=500&lines=Data+Engine+Enthusiast;Backend+Developer+(Node.js+%2B+Python);Cloud+%26+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E65F7&center=true&vcenter=true&width=500&lines=Data+Engine+Enthusiast;Backend+Developer;Cloud+%26+AI+Explorer" alt="Typing SVG" />
 </p>
 
 ---
