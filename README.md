@@ -45,7 +45,7 @@
 
 <div align="center">
 
-### 📌 PROYECTOS DESTACADOS & PRINCIPALES 📌
+### 📌 PROYECTOS DESTACADOS 📌
 *Explora el código, arquitectura y documentación de mis soluciones clave aquí abajo:*
 
 # ⬇️ ⬇️ ⬇️
