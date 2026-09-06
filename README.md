@@ -43,8 +43,6 @@
 
 <br>
 
-<div align="center">
-
 ### 📌 PROYECTOS DESTACADOS 📌
 *Explora el código, arquitectura y documentación de mis soluciones clave aquí abajo:*
 
